@@ -2,8 +2,7 @@
 
 A clean, interactive finance dashboard built with vanilla HTML, CSS, and JavaScript. Features real-time data visualization, transaction management, and role-based access control.
 
-## 🚀 Live Demo
-[View Live Demo](#) *(Add your GitHub Pages URL here after deployment)*
+
 
 ## ✨ Features
 
@@ -32,8 +31,3 @@ A clean, interactive finance dashboard built with vanilla HTML, CSS, and JavaScr
 - **Font Awesome 6** - Icons
 - **Google Fonts** - Inter font family
 
-## 📦 Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/finvision-dashboard.git
